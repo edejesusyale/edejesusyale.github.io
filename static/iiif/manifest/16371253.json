@@ -3,10 +3,23 @@
   "@id": "https://edejesusyale.github.io/static/iiif/manifest/16371253.json",
   "@type": "sc:Manifest",
   "label":"OID:16371253",
+  "metadata": [
+    {
+    "label": "Title",
+    "value": "Missal, use of Sarum (fragment)"
+    },
+    {
+    "label": "Date",
+    "value": "[between 1400 and 1500]"
+    }
+    ],
   "sequences": [
     {
       "@id": "https://edejesusyale.github.io/static/iiif/manifest/sequence/16371253",
       "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
       "canvases": [
         {
           "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
