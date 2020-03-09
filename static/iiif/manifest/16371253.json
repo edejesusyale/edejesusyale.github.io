@@ -9,17 +9,17 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "canvas url",
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
           "@type": "sc:Canvas",
           "@label": "1r",
           "height": 4212,
           "width": 3000,
           "images": [ 
             {
-              "@id": "image giturl",
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0/image/1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "USE CANVUS URL",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
               "resource":
               {
                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2/full/full/0/default.jpg",
