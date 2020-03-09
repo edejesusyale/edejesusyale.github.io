@@ -35,7 +35,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2/full/5632,/0/default.jpg",
                 "height": 7910,
                 "width" : 5632,
                 "@type": "dctypes:Image",
@@ -64,7 +64,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/1",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/16394804/16394804.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/16394804/16394804.jp2/full/5632,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7910,
@@ -93,7 +93,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/2",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/16394805/16394805.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/16394805/16394805.jp2/full/5632,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7910,
@@ -122,7 +122,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/3",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/16394806/16394806.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/16394806/16394806.jp2/full/5632,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7910,
@@ -151,7 +151,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/4",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/16394807/16394807.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/16394807/16394807.jp2/full/5632,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7910,
@@ -180,7 +180,7 @@
               "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/5",
               "resource":
               {
-                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/16394808/16394808.jp2/full/full/0/default.jpg",
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/16394808/16394808.jp2/full/5632,/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7910,
