@@ -43,7 +43,7 @@
                 "service": 
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "edejesusyale.github.io/static/iiif/manifest/oid/16371253/image/16394803/info.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               }
